@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="schematic-component"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="blue-arrow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.38932261"
+     inkscape:cx="-440.50871"
+     inkscape:cy="297.95341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       inkscape:label="arrow">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.495836;stroke-linejoin:bevel"
+         id="rect1"
+         width="32.527355"
+         height="144.26051"
+         x="540.65985"
+         y="426.16681"
+         ry="22.336241"
+         rx="16.263678" />
+      <path
+         sodipodi:type="star"
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.377953;stroke-linejoin:bevel"
+         id="path1"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="468.59225"
+         sodipodi:cy="259.7236"
+         sodipodi:r1="87.726891"
+         sodipodi:r2="43.863449"
+         sodipodi:arg1="0.4729066"
+         sodipodi:arg2="1.5201042"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 546.69096,299.68108 -75.87613,3.84963 -75.87612,3.84962 34.60419,-67.63547 34.60419,-67.63546 41.27194,63.78584 z"
+         inkscape:transform-center-x="0.25609197"
+         inkscape:transform-center-y="-11.436826"
+         transform="matrix(0.85231902,0.03034426,-0.04908854,0.52686418,170.34523,269.04137)" />
+    </g>
+  </g>
+</svg>
