@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13c64348.css",
+    "main.js": "/static/js/main.857e3061.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/RastonLabLogo.svg": "/static/media/RastonLabLogo.3cc9a8752b1e917094df811ea690fd6f.svg",
+    "index.html": "/index.html",
+    "main.13c64348.css.map": "/static/css/main.13c64348.css.map",
+    "main.857e3061.js.map": "/static/js/main.857e3061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c64348.css",
+    "static/js/main.857e3061.js"
+  ]
+}

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="300"
+   version="1.1"
+   viewBox="0 0 600 300"
+   id="svg26"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <linearGradient
+       id="linearGradient29180">
+      <stop
+         stop-color="#b3b3b3"
+         offset=".053378"
+         id="stop1" />
+      <stop
+         stop-color="#d2d2d2"
+         offset=".25"
+         id="stop2" />
+      <stop
+         stop-color="#9c9c9c"
+         offset=".5"
+         id="stop3" />
+      <stop
+         stop-color="#afafaf"
+         offset=".75"
+         id="stop4" />
+      <stop
+         stop-color="#d0d0d0"
+         offset=".95"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient29166">
+      <stop
+         stop-color="#b3b3b3"
+         offset=".05"
+         id="stop6" />
+      <stop
+         stop-color="#d2d2d2"
+         offset=".25"
+         id="stop7" />
+      <stop
+         stop-color="#9c9c9c"
+         offset=".5"
+         id="stop8" />
+      <stop
+         stop-color="#afafaf"
+         offset=".75"
+         id="stop9" />
+      <stop
+         stop-color="#d0d0d0"
+         offset=".95"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       x1="21"
+       x2="383"
+       y1="121.75"
+       y2="121.75"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#b3b3b3"
+         offset=".1"
+         id="stop11" />
+      <stop
+         stop-color="#d2d2d2"
+         offset=".25"
+         id="stop12" />
+      <stop
+         stop-color="#9c9c9c"
+         offset=".4"
+         id="stop13" />
+      <stop
+         stop-color="#afafaf"
+         offset=".6"
+         id="stop14" />
+      <stop
+         stop-color="#d0d0d0"
+         offset=".75"
+         id="stop15" />
+      <stop
+         stop-color="#989898"
+         offset=".95"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11"
+       x1="47.5"
+       x2="67.5"
+       y1="115.59"
+       y2="115.59"
+       gradientTransform="matrix(2.2472,0,0,2.2472,190.38,-29.624)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient29180" />
+    <linearGradient
+       id="linearGradient12"
+       x1="45"
+       x2="70"
+       y1="125.56"
+       y2="125.56"
+       gradientTransform="matrix(2.2472 0 0 2.2472 190.38 -29.624)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient29166" />
+    <linearGradient
+       id="linearGradient13"
+       x1="45"
+       x2="70"
+       y1="125.56"
+       y2="125.56"
+       gradientTransform="matrix(2.2472,0,0,2.2472,-39.124,-29.624)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient29166" />
+    <linearGradient
+       id="linearGradient14"
+       x1="47.5"
+       x2="67.5"
+       y1="115.59"
+       y2="115.59"
+       gradientTransform="matrix(2.2472,0,0,2.2472,-39.124,-29.624)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient29180" />
+    <linearGradient
+       id="linearGradient153"
+       x1="-577.09998"
+       x2="-546.04999"
+       y1="-105.96"
+       y2="-105.96"
+       gradientTransform="matrix(1.4469601,0,0,0.74062518,499.96109,63.229767)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient12628-8" />
+    <linearGradient
+       id="linearGradient12628-8"
+       x1="-577.09998"
+       x2="-546.04999"
+       y1="-105.96"
+       y2="-105.96"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#989898"
+         offset=".05"
+         id="stop51" />
+      <stop
+         stop-color="#d0d0d0"
+         offset=".22"
+         id="stop52" />
+      <stop
+         stop-color="#afafaf"
+         offset=".38"
+         id="stop53" />
+      <stop
+         stop-color="#9c9c9c"
+         offset=".59"
+         id="stop54" />
+      <stop
+         stop-color="#d2d2d2"
+         offset=".75"
+         id="stop55" />
+      <stop
+         stop-color="#b3b3b3"
+         offset=".92"
+         id="stop56" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient152"
+       x1="-577.09998"
+       x2="-546.04999"
+       y1="-105.96"
+       y2="-105.96"
+       gradientTransform="matrix(1.5675615,0,0,0.80235488,945.985,-299.02534)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient12628-8" />
+    <linearGradient
+       xlink:href="#linearGradient12628-8"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="-577.09998"
+       y1="-105.96"
+       x2="-546.04999"
+       y2="-105.96" />
+  </defs>
+  <g
+     transform="matrix(1.0023021,0,0,1.0023021,84.296699,14.558456)"
+     id="g26"
+     style="display:inline">
+    <rect
+       x="67.617996"
+       y="224.5"
+       width="44.944"
+       height="11.236"
+       fill="url(#linearGradient14)"
+       id="rect16"
+       style="fill:url(#linearGradient14)" />
+    <rect
+       x="62"
+       y="234.7"
+       width="56.18"
+       height="35.674"
+       fill="url(#linearGradient13)"
+       id="rect17"
+       style="fill:url(#linearGradient13)" />
+    <rect
+       x="297.12"
+       y="224.5"
+       width="44.944"
+       height="11.236"
+       fill="url(#linearGradient11)"
+       id="rect18"
+       style="fill:url(#linearGradient11)" />
+    <rect
+       transform="scale(-1)"
+       x="-335.07751"
+       y="-18.121553"
+       width="44.920002"
+       height="5.7482266"
+       fill="url(#linearGradient153)"
+       stroke-width="1.03521"
+       style="fill:url(#linearGradient153);paint-order:markers stroke fill"
+       id="rect209" />
+    <rect
+       transform="matrix(0,0.92306434,-0.92306434,0,29.786519,20.801403)"
+       x="41.352119"
+       y="-387.16168"
+       width="48.663998"
+       height="6.2273302"
+       fill="url(#linearGradient152)"
+       stroke-width="1.12149"
+       style="fill:url(#linearGradient152);paint-order:markers stroke fill"
+       id="rect206" />
+    <rect
+       x="291.5"
+       y="234.7"
+       width="56.18"
+       height="35.674"
+       fill="url(#linearGradient12)"
+       id="rect19"
+       style="fill:url(#linearGradient1)" />
+    <rect
+       x="21"
+       y="17"
+       width="362"
+       height="209.5"
+       fill="url(#linearGradient2)"
+       stroke-width="2.5096"
+       style="fill:url(#linearGradient2);paint-order:fill markers stroke"
+       id="rect20" />
+    <rect
+       x="35.5"
+       y="29"
+       width="331.98999"
+       height="187.5"
+       fill="#fbe631"
+       stroke-width="2.2736"
+       style="paint-order:fill markers stroke"
+       id="rect21" />
+    <rect
+       x="58.764999"
+       y="59.764999"
+       width="283.89001"
+       height="115.12"
+       ry="0"
+       fill="#8e9b81"
+       stroke="#000000"
+       stroke-width="4.5308"
+       id="rect22" />
+    <g
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.1236"
+       id="g25">
+      <rect
+         transform="rotate(180,155.48,5.6826)"
+         x="178.56"
+         y="-195.53"
+         width="38.202"
+         height="22.472"
+         ry="10.868"
+         id="rect23" />
+      <rect
+         transform="scale(-1)"
+         x="-223.89999"
+         y="-206.89999"
+         width="38.202"
+         height="22.472"
+         ry="10.868"
+         id="rect24" />
+      <rect
+         transform="rotate(180,245.98,5.6826)"
+         x="178.56"
+         y="-195.53"
+         width="38.202"
+         height="22.472"
+         ry="10.868"
+         id="rect25" />
+    </g>
+    <text
+       x="305.30771"
+       y="53"
+       fill="#fbe631"
+       font-size="21.333px"
+       stroke-width="2.5096"
+       style="paint-order:fill markers stroke"
+       xml:space="preserve"
+       id="text25"><tspan
+         x="203.78847"
+         y="53"
+         fill="#1a1a1a"
+         font-size="21.333px"
+         text-anchor="middle"
+         id="tspan25">Pressure Controller</tspan></text>
+    <text
+       id="pressure-value"
+       x="351.84262"
+       y="125.93759"
+       display="none"
+       dominant-baseline="central"
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="27.4289px"
+       stroke-linecap="square"
+       stroke-linejoin="round"
+       stroke-width="9.64295"
+       text-align="center"
+       text-anchor="middle"
+       style="font-size:43.8186px;line-height:0;paint-order:fill markers stroke"
+       xml:space="preserve"><tspan
+         x="198.78615"
+         y="116.29414"
+         font-size="27.4289px"
+         stroke-width="9.64295"
+         id="tspan25-3"
+         style="font-size:43.8186px">pressure</tspan></text>
+  </g>
+</svg>
