@@ -1,8 +1,8 @@
-# Virtual-FTIR-Spectrometer
+# Virtual-FTMW-Spectrometer
 
-The Raston Lab's **Fourier Transform InfraRed - Scientific Instrument Simulator** (FTIR-SIS) was designed to emulate a student's classroom experience with an FTIR spectrometer. The web application focuses on both spectra generation and a simplified top-down view of the components that make up the spectrometer.
+The Virtual FTMW Spectrometer (FTMW-SIS) is a web-based educational tool designed to simulate the operation of a Fourier Transform Microwave (FTMW) spectrometer. Developed for academic use, this simulator enables students to explore rotational spectroscopy principles, generate molecular spectra, and interact with a virtual FTMW instrument, providing hands-on learning without physical hardware.
 
-This project uses [React](https://github.com/facebook/react) for the frontend and [Flask](https://github.com/pallets/flask/) for the backend. The backend is located in a separate [repository](https://github.com/RastonLab/Virtual-FTIR-Functions).
+This project uses [React](https://github.com/facebook/react) for the frontend and [Flask](https://github.com/pallets/flask/) for the backend. The backend is located in a separate [repository](https://github.com/FTMW-Scientific-Simulator/Virtual-FTMW-Functions).
 
 ## Installation
 
@@ -12,21 +12,38 @@ Information on how to run the front-end can be found in the repository's [wiki p
 
 The intended audience for this application is undergraduate chemistry students studying spectroscopy. The following screenshots are not exhaustive but acknowledge most of the main features:
 
-- Experimental Setup (spectrometer parameters)
+- Experimental Setup (Shows the spectrometer’s physical setup, including the vacuum chamber, molecular beam source, and microwave source)
 
-![experimental-setup](https://github.com/RastonLab/Virtual-FTIR-Spectrometer/assets/35882058/03a18ff2-2c05-4ad2-bcc5-eafc54a8e592)
+![b5b5a7d39cf8baabf826305b9ebbe46](https://github.com/user-attachments/assets/86f1338e-348a-4118-aabc-3de21bca0a98)
 
 - Instrument Window (top-down view of simplified spectrometer)
 
-![instrument-window](https://github.com/RastonLab/Virtual-FTIR-Spectrometer/assets/35882058/a060c1ed-db58-451b-b765-01b75f541aec)
+![9c5e7909104abfec865c14087eeaeb8](https://github.com/user-attachments/assets/ae25f062-d52f-4c31-90f3-0e4267b13e5c)
 
-- Spectra Window (plotted spectra)
+- Schematic Window (Displays a block diagram of the FTMW spectrometer with clickable components to learn their functions)
+  
+![e02d57f7019f924f4c6c1924f600dcc](https://github.com/user-attachments/assets/1fc76b9f-3087-4721-b73c-28ff68d5c8d5)
+  
+- Spectrum Window (Plots the generated rotational spectrum)
 
-![spectra-window](https://github.com/RastonLab/Virtual-FTIR-Spectrometer/assets/35882058/4d63ea6a-48df-45ef-8c64-c74da499badc)
+![05729f9fa95a2dab146420dc589b5b8](https://github.com/user-attachments/assets/96acd1ee-9cf0-4335-a65e-e5d63bb96877)
+
+- Find Peaks (Highlights spectral peaks in a table or plot, allowing analysis of rotational transitions)
+
+![92838fee0b449c43e083169d054fc96](https://github.com/user-attachments/assets/f160f9ad-ef8e-4108-be88-dbdc40139d2c)
+
+To use the simulator:
+
+1. Access the interface at `http://localhost:3000`.
+2. Set parameters (e.g., molecule, frequency range, pulse widths) in the Experiment Setup tab.
+3. Explore the Schematic tab to learn about the spectrometer’s components.
+4. Generate a spectrum in the Spectrum tab and analyze results in the Find Peaks tab.
+
+
 
 ## Additional Information
 
-Additional information regarding the FTIR-SIS can be found in the repository's [wiki page](../../wiki). This information includes Redix Toolkit, SVG diagrams, SVG optimization, SVG interactivity, and SVG animation.
+Additional information regarding the FTMW-SIS can be found in the repository's [wiki page](../../wiki). This information includes Redux Toolkit, SVG diagrams, SVG optimization, SVG interactivity, and SVG animation.
 
 ## Contributing
 
